@@ -1,18 +1,21 @@
 # Blog
 
-Welcome to my technical blog where I share insights about:
+Welcome to my blog where I share insights about AI/ML, community building, and technology.
 
-- AI System Implementation
-- Technical Architecture Design
-- Performance Optimization
-- Team Enablement
+## Latest Posts
 
-## Featured Posts
+[LLM Observability with Arize Phoenix and LlamaIndex](./posts/llm-observability.md)
+: Learn how to implement robust observability for LLM applications using Arize Phoenix and LlamaIndex.
 
-*Add your technical blog posts in the `posts` directory.*
+## Categories
 
-## Stay Updated
+- **AI/ML Engineering**
+- **Community Building**
+- **Technical Tutorials**
+- **Project Updates**
 
-Subscribe to receive technical insights and best practices:
+## Subscribe
 
-[Subscribe to Updates](#) *(Add your newsletter signup link)*
+Stay updated with my latest posts and projects.
+
+[Subscribe to Updates](https://github.com/cmagganas){ .md-button .md-button--primary }

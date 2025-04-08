@@ -1,29 +1,35 @@
-# Services
+# Christos Magganas
 
-If you're facing any of these challenges, I can help:
+AI Engineer | Community Builder | Techno-Philanthropist
 
-- **Scaling Complexity**: Wrestling with AI systems that become increasingly complex and harder to maintain
-- **Integration Bottlenecks**: Struggling to seamlessly integrate AI capabilities into existing workflows
-- **Performance Issues**: Dealing with slow response times and high costs in production systems
-- **Quality Control**: Maintaining consistency and reliability in AI-powered features
-- **Technical Debt**: Accumulating technical debt from rapid AI implementation
+## Services
 
-## Recent Client Success Stories
+I specialize in helping teams with:
 
-| Industry | Challenge Solved | Impact |
-|----------|-----------------|---------|
-| Enterprise SaaS | Optimized RAG pipeline | 60% cost reduction |
-| AI Startup | Scaled inference system | 3x throughput increase |
-| FinTech | Improved response accuracy | 40% better precision |
+- **AI/ML Implementation**: Building and deploying robust AI systems
+- **LLM Engineering**: Developing and optimizing Large Language Model applications
+- **MLOps**: Implementing best practices for ML operations and deployment
+- **Community Building**: Creating and nurturing technical communities
+- **Technical Consulting**: Providing expert guidance on AI/ML projects
 
-## Who I Am
+## Recent Projects
 
-An experienced technical consultant specializing in AI implementation and optimization. I help teams:
+| Project | Description | Impact |
+|---------|-------------|---------|
+| LLM Observability | Framework for LLM transparency using Arize Phoenix | Improved model performance tracking |
+| Real-time Multilingual KWS | Custom keyword spotting system | Enhanced voice interaction |
+| Spotify Playlist Recommender | AI-powered music recommendation | Personalized user experience |
 
-- Build robust AI systems that scale
-- Optimize performance and reduce costs
-- Implement best practices for long-term success
+## About Me
+
+I'm an AI Engineer at AI Makerspace and the Founder of Techgnosis, passionate about:
+
+- Leveraging AI/ML to solve real-world problems
+- Building and supporting technical communities
+- Sharing knowledge through teaching and mentoring
 - Enable teams with the right tools and knowledge
 
-[Schedule a Consultation](https://cal.com/your-handle){ .md-button .md-button--primary }
-[Read the Blog](./blog/index.md){ .md-button }
+[View My Resume](https://cmagganas.github.io/resume/){ .md-button .md-button--primary }
+[Read My Blog](./blog/index.md){ .md-button }
+[Schedule a Consultation](https://cal.com/christos-magganas/25min){ .md-button .
+md-button--primary }
