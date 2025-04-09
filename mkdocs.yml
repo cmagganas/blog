@@ -6,7 +6,7 @@ repo_name: blog
 repo_url: https://github.com/cmagganas/blog/
 site_url: https://cmagganas.github.io/blog/
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2024 Christos Magganas
+copyright: Copyright &copy; 2025 Christos Magganas
 theme:
   name: material
   icon:
@@ -139,6 +139,8 @@ extra:
     provider: google
     property: G-XXXX
   social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/christos-magganas/
     - icon: fontawesome/brands/twitter
       link: https://x.com/christosmagg # TODO: add link
     - icon: fontawesome/brands/github

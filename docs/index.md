@@ -29,7 +29,8 @@ I'm an AI Engineer at AI Makerspace and the Founder of Techgnosis, passionate ab
 - Sharing knowledge through teaching and mentoring
 - Enable teams with the right tools and knowledge
 
-[View My Resume](https://cmagganas.github.io/resume/){ .md-button .md-button--primary }
-[Read My Blog](./blog/index.md){ .md-button }
-[Schedule a Consultation](https://cal.com/christos-magganas/25min){ .md-button .
-md-button--primary }
+[View My Resume](https://cmagganas.github.io/resume/)
+
+[Read My Blog](./blog/index.md)
+
+[Schedule a Consultation](https://cal.com/christos-magganas/25min)

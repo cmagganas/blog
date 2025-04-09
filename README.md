@@ -5,24 +5,27 @@ Create a professional consulting blog with the MkDocs Material theme.
 ## Deployment Steps
 
 1. **Install Dependencies**: Ensure all packages are installed.
+
    ```bash
    pip install -r requirements-doc.txt
    ```
 
 2. **Run Locally**: Start a local server to preview your site.
+
    ```bash
    mkdocs serve -w .
    ```
 
 3. **Deploy to GitHub Pages**: Go live with:
+
    ```bash
    mkdocs gh-deploy
    ```
 
 ## Tasks to Complete
 
-- [ ] Customize `mkdocs.yml` with your site details.
-- [ ] Update `docs/index.md` with your landing page info.
+- [x] Customize `mkdocs.yml` with your site details.
+- [x] Update `docs/index.md` with your landing page info.
 - [ ] Revise `docs/services.md` with your services.
 - [ ] Set up [Cal.com](https://cal.com) and update links in `docs/index.md` and `docs/services.md`.
 - [ ] Add blog posts to `docs/blog/posts/`.
@@ -32,6 +35,7 @@ Create a professional consulting blog with the MkDocs Material theme.
 ### Value Equation
 
 Maximize content value by addressing:
+
 - **Dream Outcome**: Reader's goal
 - **Probability of Success**: Likelihood of achieving it
 - **Time**: Duration needed
