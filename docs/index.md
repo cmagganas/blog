@@ -18,7 +18,7 @@ I specialize in helping teams achieve their AI goals through:
 |---------|-----------|-------------------|
 | LLM Observability | Lack of transparency in LLM applications | Framework using Arize Phoenix that improved model performance tracking by 40% |
 | Real-time Multilingual KWS | Need for efficient voice interaction | Custom keyword spotting system that enhanced voice interaction in 5 languages |
-| Spotify Playlist Recommender | Generic music recommendations | AI-powered personalization that increased user engagement by 25% |
+| Spotify Playlist Recommender | Generic music recommendations | ML-powered personalization, before Spotify Blend existed |
 
 ## Who We Are
 
