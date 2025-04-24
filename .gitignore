@@ -1,0 +1,6 @@
+.cache/
+.venv/
+.history/
+
+site/
+docs/writing/private

@@ -1,7 +1,7 @@
 ---
 title: LLM Observability with Arize Phoenix and LlamaIndex
 description: Exploring how to build robust observability frameworks for LLM applications using Arize Phoenix and LlamaIndex
-date: 2023-11-01
+date: 2024-03-20
 authors:
   - me
 categories:
