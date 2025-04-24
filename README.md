@@ -26,9 +26,10 @@ Create a professional consulting blog with the MkDocs Material theme.
 
 - [x] Customize `mkdocs.yml` with your site details.
 - [x] Update `docs/index.md` with your landing page info.
-- [ ] Revise `docs/services.md` with your services.
-- [ ] Set up [Cal.com](https://cal.com) and update links in `docs/index.md` and `docs/services.md`.
-- [ ] Add blog posts to `docs/blog/posts/`.
+- [x] Revise `docs/services.md` with your services.
+- [x] Set up [Cal.com](https://cal.com) and update links in `docs/index.md` and `docs/services.md`.
+- [x] Add a blog posts to `docs/blog/posts/`.
+- [ ] Add more blog posts to `docs/blog/posts/`.
 
 ## Crafting Effective Content
 
