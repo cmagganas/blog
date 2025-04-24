@@ -1,4 +1,0 @@
-# macOS-specific dependencies for MkDocs Material
-cairo>=1.18.0
-pango>=1.50.0
-gdk-pixbuf>=2.42.0 
