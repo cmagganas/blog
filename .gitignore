@@ -1,7 +1,10 @@
 .cache/
 .venv/
 .history/
+<<<<<<< HEAD
 .DS_Store
+=======
+>>>>>>> gh-pages
 
 # Website Rendered
 site/

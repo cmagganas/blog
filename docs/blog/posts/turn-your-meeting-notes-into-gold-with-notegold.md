@@ -16,9 +16,17 @@ By the end of this article, you'll discover how Notegold can transform your meet
 
 ## What is Notegold?
 
+<<<<<<< HEAD
 [![NoteGold](/notegold.svg)](https://github.com/cmagganas/notegold)
 
 Notegold implements a "Content as a Flywheel" approach that makes it easy to extract insights from client meetings and turn them into high-value content. The system processes meeting notes through a modular pipeline:
+=======
+[![NoteGold](https://raw.githubusercontent.com/cmagganas/blog/refs/heads/main/assets/notegold.svg)](https://github.com/cmagganas/notegold)
+
+Notegold implements a "Content as a Flywheel"[^1] approach that makes it easy to extract insights from client meetings and turn them into high-value content. The system processes meeting notes through a modular pipeline:
+
+[^1]: [Data Flywheel Go Brrr: Using Your Users to Build Better Products](https://jxnl.co/writing/2024/03/28/data-flywheel/)
+>>>>>>> gh-pages
 
 ```mermaid
 graph TD
