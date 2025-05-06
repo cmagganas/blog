@@ -1,6 +1,7 @@
 .cache/
 .venv/
 .history/
+.DS_Store
 
 # Website Rendered
 site/
