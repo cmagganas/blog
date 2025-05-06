@@ -1,0 +1,14 @@
+.cache/
+.venv/
+.history/
+
+# Website Rendered
+site/
+
+# Private Writing
+docs/writing/private
+
+# JS
+package.json
+package-lock.json
+node_modules/
